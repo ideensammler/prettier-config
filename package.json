@@ -1,0 +1,7 @@
+{
+  "name": "@ideensammler/prettier-config",
+  "version": "0.1.0",
+  "description": "Our central Prettier configuration.",
+  "main": "index.json",
+  "repository": "git@github.com:ideensammler/prettier-config.git"
+}
