@@ -7,7 +7,7 @@ Our central Prettier configuration.
 **Install**:
 
 ```bash
-$ yarn add --dev @ideensammler/prettier-config
+yarn add --dev https://github.com/ideensammler/prettier-config
 ```
 
 **Edit `package.json`**:
